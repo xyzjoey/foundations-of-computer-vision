@@ -61,6 +61,8 @@
 % 
 % end
 
+% Script source: https://www.mathworks.com/matlabcentral/fileexchange/46408-histogram-of-oriented-gradients-hog-code-using-matlab
+
 function [feature] = HOG(im)
 % The given code finds the HOG feature vector for any given image. HOG
 % feature vector/descriptor can then be used for detection of any
