@@ -216,16 +216,24 @@ LeNet architecture used
 
 <table>
   <tr>
-    <th colspan="3">Results</th>
+    <th colspan="2">Results</th>
   </tr>
   <tr>
     <th colspan="2">Sample output</th>
-    <th>Confusion matrix</th>
   </tr>
   <tr>
     <td align="center">Layer 2 (type CONV)</td>
     <td align="center">Layer 3 (type RELU)</td>
-    <td rowspan="4" align="center">
+  </tr>
+  <tr>
+    <td><img src="assgn6/results/Q5_4.png" height="200"></td>
+    <td><img src="assgn6/results/Q5_5.png" height="200"></td>
+  </tr>
+  <tr>
+      <th colspan="2">Confusion matrix</th>
+  </tr>
+  <tr>
+      <td colspan="2" align="center">
         <table>
         <tr>
             <td>digit</td>
@@ -238,7 +246,8 @@ LeNet architecture used
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>            <td>2</td>
+            <td>0</td>            
+            <td>2</td>
             <td>1</td>
             <td>0</td>
             <td>0</td>
@@ -250,7 +259,8 @@ LeNet architecture used
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>            <td>0</td>
+            <td>0</td>            
+            <td>0</td>
             <td>1</td>
             <td>0</td>
             <td>0</td>
@@ -262,7 +272,8 @@ LeNet architecture used
             <td>50</td>
             <td>3</td>
             <td>0</td>
-            <td>0</td>            <td>0</td>
+            <td>0</td>            
+            <td>0</td>
             <td>1</td>
             <td>0</td>
             <td>0</td>
@@ -274,7 +285,8 @@ LeNet architecture used
             <td>0</td>
             <td>32</td>
             <td>0</td>
-            <td>1</td>            <td>0</td>
+            <td>1</td>            
+            <td>0</td>
             <td>2</td>
             <td>2</td>
             <td>0</td>
@@ -286,7 +298,8 @@ LeNet architecture used
             <td>0</td>
             <td>0</td>
             <td>51</td>
-            <td>0</td>            <td>0</td>
+            <td>0</td>            
+            <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -298,7 +311,8 @@ LeNet architecture used
             <td>0</td>
             <td>1</td>
             <td>0</td>
-            <td>40</td>            <td>1</td>
+            <td>40</td>            
+            <td>1</td>
             <td>0</td>
             <td>0</td>
             <td>1</td>
@@ -310,7 +324,8 @@ LeNet architecture used
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>            <td>41</td>
+            <td>0</td>            
+            <td>41</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
@@ -322,7 +337,8 @@ LeNet architecture used
             <td>2</td>
             <td>0</td>
             <td>0</td>
-            <td>1</td>            <td>0</td>
+            <td>1</td>            
+            <td>0</td>
             <td>56</td>
             <td>0</td>
             <td>2</td>
@@ -334,7 +350,8 @@ LeNet architecture used
             <td>1</td>
             <td>1</td>
             <td>0</td>
-            <td>0</td>            <td>1</td>
+            <td>0</td>            
+            <td>1</td>
             <td>0</td>
             <td>48</td>
             <td>0</td>
@@ -346,17 +363,14 @@ LeNet architecture used
             <td>0</td>
             <td>1</td>
             <td>2</td>
-            <td>0</td>            <td>0</td>
+            <td>0</td>            
+            <td>0</td>
             <td>0</td>
             <td>0</td>
             <td>54</td>
         </tr>
         </table>
     </td>
-  </tr>
-  <tr>
-    <td><img src="assgn6/results/Q5_4.png" height="200"></td>
-    <td><img src="assgn6/results/Q5_5.png" height="200"></td>
   </tr>
   <tr>
     <th colspan="2">Accuracy</th>
