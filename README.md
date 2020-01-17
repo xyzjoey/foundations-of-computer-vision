@@ -3,7 +3,7 @@ HKUST 2019-2020 Fall COMP4901L<br/>
 (course adapted from [CMU 16-385 Computer Vision](http://www.cs.cmu.edu/~16385/))
 
 ## Assignment 1
-### Image Filtering and Hough Transform
+#### Image Filtering and Hough Transform
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ HKUST 2019-2020 Fall COMP4901L<br/>
 </table>
 
 ## Assignment 2
-### Augmented Reality with Planar Homographies
+#### Augmented Reality with Planar Homographies
 
 <table>
   <tr>
@@ -55,7 +55,7 @@ References:
 - Machine learning for high-speed corner detection, E. Rosten and T. Drummond, ECCV 2006
 
 ## Assignment 3
-### 3D Reconstruction
+#### 3D Reconstruction
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ References:
 </table>
 
 ## Assignment 5
-### Scene Recognition with Bag of Words
+#### Scene Recognition with Bag of Words
 
 <table>
   <tr>
@@ -210,7 +210,7 @@ References:
 - [SUN Database](https://groups.csail.mit.edu/vision/SUN/)
 
 ## Assignment 6
-### Digit Recognition with Convolutional Neural Networks
+#### Digit Recognition with Convolutional Neural Networks
 
 LeNet architecture used
 
@@ -385,7 +385,7 @@ References:
 - Y. Lecun, L. Bottou, Y. Bengio et al., "Gradient-based learning applied to document recognition", Proc. IEEE, vol. 86, no. 11, pp. 2278-2324, 1998.
 
 ## Assignment 7
-### Tracking Objects in Videos
+#### Tracking Objects in Videos
 
 <table>
   <tr>
